@@ -10,10 +10,10 @@ npm install csv-transform-json
 ``` js
 var ctj = require('csv-transform-json');
 /** 
- *	@version v1.0.0
- *  @author chen.han
- *  @param String    get the contents of the file path
- *  @param function  callback
+ *	@version  v1.0.0
+ *  @author   chen.han
+ *  @param    String    get the contents of the file path
+ *  @param    function  callback
  */
 ctj('/static/user.csv', function(data) {
 	console.log(data);
