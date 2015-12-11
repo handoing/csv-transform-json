@@ -1,13 +1,13 @@
 {
   "name": "csv-transform-json",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A simple csv Transform json",
   "main": "index.js",
   "dependencies": {
     "csv-parser": "^1.8.1",
     "ldjson-stream": "^1.2.1",
     "peek-stream": "^1.1.1"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/handoing/csv-transform-json"

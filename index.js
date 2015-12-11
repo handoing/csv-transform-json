@@ -24,7 +24,7 @@ var parser = (function() {
     })
 })();
 
-// @version v1.0.0
+// @version v0.1.0
 // @author chen.han
 // @param String    get the contents of the file path
 // @param function  callback
