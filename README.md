@@ -1,8 +1,11 @@
 # csv-transform-json #
 A simple csv Transform json for nodejs
 
+Due to caused by network, my library file can't publish to npm.
+so you can clone this library.
+
 ```
-npm install csv-transform-json
+git clone https://github.com/handoing/csv-transform-json
 ```
 
 ## Usage
